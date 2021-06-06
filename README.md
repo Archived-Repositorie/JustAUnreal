@@ -16,6 +16,11 @@ Just A Unreal is a mod pack that adds adventure to mods like (place for mods) an
 ## Requirements
 
 Recommended 4GB for minecraft
+
+## Stats
+
+[![Statistic](https://github-readme-stats.vercel.app/api/pin/?username=JustFoxx&repo=JustAUnreal)](https://github.com/JustFoxx/JustAUnreal)
+
 ## License 
 
 MIT
