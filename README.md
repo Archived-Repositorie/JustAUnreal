@@ -19,7 +19,7 @@ Recommended 4GB for minecraft
 
 ## Stats
 
-[![Statistic](https://github-readme-stats.vercel.app/api/pin/?username=JustFoxx&repo=JustAUnreal)](https://github.com/JustFoxx/JustAUnreal)
+[![Statistic](https://github-readme-stats.vercel.app/api/pin/?username=JustFoxx&repo=JustAUnreal&bg_color=DEG)](https://github.com/JustFoxx/JustAUnreal)
 
 ## License 
 
